@@ -1,2 +1,2 @@
 # dxk_try
-dxk_try about sparrow
+dxk_try about how to use git
